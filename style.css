@@ -1,0 +1,979 @@
+.teeth-holder {
+    width: 1024px;
+    height: 750px;
+    background-color: #fbfbfd;
+    position: relative;
+}
+
+.teeth-holder > * {
+	-webkit-user-select: none !important;
+	user-select: none !important;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.tooth .tooth-inner {
+    position: relative;
+}
+
+.tooth-bottom {
+    margin-top: 40px;
+	transform: translateY(-80px);
+}
+
+.tooth-top .label {
+	transform: translateY(100px);
+	margin-left: 3px;
+}
+
+.tooth {
+    float: left;
+}
+
+.tooth-11 img {
+	width: 57px;
+	height: 226px;
+}
+
+.tooth-12 img {
+	width: 52px;
+	height: 225px;
+}
+
+.tooth-13 img {
+	width: 59px;
+	height: 250px;
+}
+
+.tooth-14 img {
+	width: 50px;
+	height: 225px;
+}
+
+.tooth-15 img {
+	width: 54px;
+	height: 212px;
+}
+
+.tooth-16 img {
+	width: 71px;
+	height: 206px;
+}
+
+.tooth-17 {
+    padding-right: 5px;
+}
+
+.tooth-17 img {
+	width: 67px;
+	height: 192px;
+}
+
+.tooth-18 {
+    padding-right: 5px;
+}
+
+.tooth-18 img {
+	width: 69px;
+	height: 175px;
+}
+
+.tooth-21 img {
+	width: 57px;
+	height: 226px;
+}
+
+.tooth-22 img {
+	width: 52px;
+	height: 225px;
+}
+
+.tooth-23 img {
+	width: 59px;
+	height: 250px;
+}
+
+.tooth-24 img {
+	width: 50px;
+	height: 225px;
+}
+
+.tooth-25 img {
+	width: 54px;
+	height: 212px;
+}
+
+.tooth-26 img {
+	width: 71px;
+	height: 206px;
+}
+
+.tooth-27 img {
+	width: 67px;
+	height: 192px;
+}
+
+.tooth-28 img {
+	width: 69px;
+	height: 175px;
+}
+
+.tooth-31 {
+    padding-right: 8px;
+}
+
+.tooth-31 img {
+	width: 47px;
+	height: 210px;
+}
+
+.tooth-32 img {
+	width: 45px;
+	height: 218px;
+}
+
+.tooth-33 {
+    padding-left: 8px;
+}
+
+.tooth-33 img {
+	width: 53px;
+	height: 240px;
+}
+
+.tooth-34 {
+    padding-left: 5px;
+}
+
+.tooth-34 img {
+	width: 48px;
+	height: 219px;
+}
+
+.tooth-35 {
+    padding-left: 5px;
+}
+
+.tooth-35 img {
+	width: 46px;
+	height: 214px;
+}
+
+.tooth-36 img {
+	width: 75px;
+	height: 195px;
+}
+
+.tooth-37 img {
+	width: 71px;
+	height: 195px;
+}
+
+.tooth-38 img {
+	width: 74px;
+	height: 185px;
+}
+
+.tooth-41 {
+    padding-right: 8px;
+}
+
+.tooth-41 img {
+	width: 47px;
+	height: 210px;
+}
+
+.tooth-42 {
+    padding-right: 8px;
+}
+
+.tooth-42 img {
+	width: 45px;
+	height: 218px;
+}
+
+.tooth-43 {
+    padding-right: 8px;
+}
+
+.tooth-43 img {
+	width: 53px;
+	height: 240px;
+}
+
+.tooth-44 {
+    padding-right: 5px;
+}
+
+.tooth-44 img {
+	width: 48px;
+	height: 219px;
+}
+
+.tooth-45 {
+    padding-right: 5px;
+}
+
+.tooth-45 img {
+	width: 46px;
+	height: 214px;
+}
+
+.tooth-46 img {
+	width: 75px;
+	height: 195px;
+}
+
+.tooth-47 img {
+	width: 71px;
+	height: 195px;
+}
+
+.tooth-48 img {
+	width: 74px;
+	height: 185px;
+}
+
+.tooth .label {
+    text-align: center;
+    width: 100%;
+    font-size: 22px;
+    position: absolute;
+}
+
+.tooth-top .tooth-inner {
+    height: 200px;
+    /* padding-bottom: 50px; */
+}
+
+.tooth-bottom .tooth-inner {
+    padding-top: 50px;
+}
+
+.tooth-top .label {
+    bottom: 0px;
+}
+
+.tooth-bottom .label {
+    top: 0px;
+}
+
+.tooth svg {
+	position: absolute;
+	display: block;
+	opacity: 0.6;
+}
+
+.tooth.premolar svg {
+	width: 32px;
+}
+
+.tooth.molar svg {
+	width: 40px;
+}
+
+.tooth.incisor svg {
+	width: 24px;
+}
+
+.tooth-18 svg {
+	top: -25px;
+	left: 15px;
+}
+
+.tooth-17 svg {
+	top: -6px;
+	left: 10px;
+	width: 42px !important;
+}
+
+.tooth-16 svg {
+	top: 0px;
+	left: 10px;
+	width: 50px !important;
+}
+
+.tooth-15 svg {
+	top: 0px;
+	left: 8px;
+}
+
+.tooth-14 svg {
+	top: 3px;
+	left: 8px;
+}
+
+.tooth-13 svg {
+	top: 23px;
+	left: 10px;
+	width: 38px !important;
+}
+
+.tooth-12 svg {
+	top: 10px;
+	left: 10px;
+	width: 32px !important;
+}
+
+.tooth-11 svg {
+	top: 10px;
+	left: 10px;
+	width: 38px !important;
+}
+
+.tooth-21 svg {
+	top: 10px;
+	left: 10px;
+	width: 38px !important;
+}
+
+.tooth-22 svg {
+	top: 10px;
+	left: 10px;
+	width: 32px !important;
+}
+
+.tooth-23 svg {
+	top: 23px;
+	left: 10px;
+	width: 38px !important;
+}
+
+.tooth-24 svg {
+	top: 3px;
+	left: 8px;
+}
+
+.tooth-25 svg {
+	top: 0px;
+	left: 12px;
+}
+
+.tooth-26 svg {
+	top: 0px;
+	left: 10px;
+	width: 50px !important;
+}
+
+.tooth-27 svg {
+	top: -6px;
+	left: 10px;
+	width: 50px !important;
+}
+
+.tooth-28 svg {
+	top: -25px;
+	left: 15px;
+}
+
+.tooth-48 svg {
+	top: -54px;
+	left: 15px;
+	width: 50px !important;
+}
+
+.tooth-47 svg {
+	top: -52px;
+	left: 15px;
+	width: 50px !important;
+}
+
+.tooth-46 svg {
+	top: -54px;
+	left: 13px;
+	width: 50px !important;
+}
+
+.tooth-45 svg {
+	top: -48px;
+	left: 4px;
+	width: 36px !important;
+}
+
+.tooth-44 svg {
+	top: -44px;
+	left: 5px;
+	width: 36px !important;
+}
+
+.tooth-43 svg {
+	top: -34px;
+	left: 10px;
+	width: 36px !important;
+}
+
+.tooth-42 svg {
+	top: -34px;
+	left: 8px;
+	width: 28px !important;
+}
+
+.tooth-41 svg {
+	top: -34px;
+	left: 10px;
+	width: 28px !important;
+}
+
+.tooth-31 svg {
+	top: -34px;
+	left: 10px;
+	width: 28px !important;
+}
+
+.tooth-32 svg {
+	top: -34px;
+	left: 8px;
+	width: 28px !important;
+}
+
+.tooth-33 svg {
+	top: -34px;
+	left: 8px;
+	width: 36px !important;
+}
+
+.tooth-34 svg {
+	top: -44px;
+	left: 5px;
+	width: 36px !important;
+}
+
+.tooth-35 svg {
+	top: -48px;
+	left: 4px;
+	width: 36px !important;
+}
+
+.tooth-36 svg {
+	top: -54px;
+	left: 13px;
+	width: 50px !important;
+}
+
+.tooth-37 svg {
+	top: -52px;
+	left: 10px;
+	width: 50px !important;
+}
+
+.tooth-38 svg {
+	top: -54px;
+	left: 12px;
+	width: 50px !important;
+}
+
+.line {
+	width: 100%;
+	height: 2px;
+	background-color: red;
+	content: " ";
+	position: absolute;
+	left: 0px;
+	z-index: 99999;
+}
+
+.line-1 {
+	top: 240px;
+}
+
+.line-2 {
+	bottom: 240px;
+}
+
+.line-3 {
+	bottom: 214px;
+}
+
+.tooth-18 {
+	margin-top: 80px;
+}
+
+.tooth-18 .label {
+	bottom: 80px;
+}
+
+.tooth-17 {
+	margin-top: 57px;
+}
+
+.tooth-17 .label {
+	bottom: 57px;
+}
+
+.tooth-16 {
+	margin-top: 47px;
+}
+
+.tooth-16 .label {
+	bottom: 47px;
+}
+
+.tooth-15 {
+	margin-top: 42px;
+}
+
+.tooth-15 .label {
+	bottom: 42px;
+}
+
+.tooth-14 {
+	margin-top: 30px;
+}
+
+.tooth-14 .label {
+	bottom: 30px;
+}
+
+.tooth-13 {
+	margin-top: 2px;
+}
+
+.tooth-13 .label {
+	bottom: 2px;
+}
+
+.tooth-12 {
+	margin-top: 29px;
+}
+
+.tooth-12 .label {
+	bottom: 29px;
+}
+
+.tooth-11 {
+	margin-top: 29px;
+}
+
+.tooth-11 .label {
+	bottom: 29px;
+}
+
+.tooth-21 {
+	margin-top: 29px;
+}
+
+.tooth-21 .label {
+	bottom: 29px;
+}
+
+.tooth-22 {
+	margin-top: 29px;
+}
+
+.tooth-22 .label {
+	bottom: 29px;
+}
+
+.tooth-23 {
+	margin-top: 2px;
+}
+
+.tooth-23 .label {
+	bottom: 2px;
+}
+
+.tooth-24 {
+	margin-top: 30px;
+}
+
+.tooth-24 .label {
+	bottom: 30px;
+}
+
+.tooth-25 {
+	margin-top: 42px;
+}
+
+.tooth-25 .label {
+	bottom: 42px;
+}
+
+.tooth-26 {
+	margin-top: 47px;
+}
+
+.tooth-26 .label {
+	bottom: 47px;
+}
+
+.tooth-27 {
+	margin-top: 57px;
+}
+
+.tooth-27 .label {
+	bottom: 57px;
+}
+
+.tooth-28 {
+	margin-top: 80px;
+}
+
+.tooth-28 .label {
+	bottom: 80px;
+}
+
+.tooth-top .label {
+	position: absolute;
+	left: 0px;
+	display: block;
+}
+
+.tooth-bottom .label {
+	position: absolute;
+	left: 0px;
+	display: block;
+}
+
+.tooth-46 {
+	margin-top: 45px;
+}
+
+.tooth-46 .label {
+	top: -5px;
+}
+
+.tooth-45 {
+	margin-top: 45px;
+}
+
+.tooth-45 .label {
+	top: -5px;
+}
+
+.tooth-44 {
+	margin-top: 41px;
+}
+
+.tooth-44 .label {
+	top: -1px;
+}
+
+.tooth-34 {
+	margin-top: 41px;
+}
+
+.tooth-34 .label {
+	top: -1px;
+}
+
+.tooth-35 {
+	margin-top: 45px;
+}
+
+.tooth-35 .label {
+	top: -5px;
+}
+
+.tooth-36 {
+	margin-top: 45px;
+}
+
+.tooth-36 .label {
+	top: -5px;
+}
+
+.brojevi {
+	width: 970px;
+	text-align: center;
+	font-size: 28px;
+	padding-left: 10px;
+}
+
+.root {
+	width: 4px;
+	height: 16px;
+	border: solid 1px #000;
+	position: absolute;
+	background-color: rgba(255,255,255,0.6);
+}
+
+.tooth-18 .root-1, .tooth-28 .root-1 {
+	height: 35px;
+	top: 16px;
+	left: 23px;
+}
+
+.tooth-18 .root-2, .tooth-28 .root-2 {
+	height: 35px;
+	top: 16px;
+	left: 43px;
+}
+
+.tooth-17 .root-1, .tooth-27 .root-1 {
+	height: 35px;
+	top: 22px;
+    left: 19px;
+}
+
+.tooth-17 .root-2, .tooth-27 .root-2 {
+	height: 35px;
+	top: 21px;
+    left: 45px;
+}
+
+.tooth-17 .root-3, .tooth-27 .root-3 {
+	height: 35px;
+    top: 16px;
+    left: 32px;
+}
+
+.tooth-16 .root-1, .tooth-26 .root-1 {
+	height: 35px;
+	top: 22px;
+    left: 19px;
+}
+
+.tooth-16 .root-2, .tooth-26 .root-2 {
+	height: 35px;
+	top: 21px;
+    left: 34px;
+}
+
+.tooth-16 .root-3, .tooth-26 .root-3 {
+	height: 35px;
+    top: 22px;
+    left: 49px;
+}
+
+.tooth-15 .root-1 {
+    height: 51px;
+    top: 22px;
+    left: 22px;
+}
+
+.tooth-25 .root-1 {
+    height: 51px;
+    top: 22px;
+    left: 27px;
+}
+
+.tooth-14 .root-1 {
+    height: 39px;
+    top: 34px;
+    left: 20px;
+}
+
+.tooth-24 .root-1 {
+    height: 39px;
+    top: 34px;
+    left: 24px;
+}
+
+.tooth-13 .root-1 {
+    height: 60px;
+    top: 22px;
+    left: 29px;
+}
+
+.tooth-23 .root-1 {
+    height: 60px;
+    top: 22px;
+    left: 26px;
+}
+
+.tooth-12 .root-1 {
+    height: 48px;
+    top: 22px;
+    left: 24px;
+}
+
+.tooth-22 .root-1 {
+    height: 48px;
+    top: 22px;
+    left: 26px;
+}
+
+.tooth-11 .root-1, .tooth-21 .root-1 {
+    height: 44px;
+    top: 22px;
+    left: 26px;
+}
+
+.tooth-48 .root-1 {
+    height: 44px;
+    top: 171px;
+    left: 19px;
+}
+
+.tooth-48 .root-2 {
+    height: 45px;
+    top: 171px;
+    left: 38px;
+    transform: rotate(12deg);
+}
+
+.tooth-38 .root-1 {
+	height: 44px;
+    top: 171px;
+    left: 51px;
+}
+
+.tooth-38 .root-2 {
+    height: 45px;
+    top: 176px;
+    left: 33px;
+    transform: rotate(-20deg);
+}
+
+.tooth-47 .root-1 {
+    height: 54px;
+    top: 171px;
+    left: 14px;
+    transform: rotate(12deg);
+}
+
+.tooth-47 .root-2 {
+    height: 60px;
+    top: 171px;
+    left: 39px;
+    transform: rotate(12deg);
+}
+
+.tooth-46 .root-1 {
+    height: 54px;
+    top: 171px;
+    left: 16px;
+    transform: rotate(12deg);
+}
+
+.tooth-46 .root-2 {
+    height: 60px;
+	top: 171px;
+    left: 43px;
+    transform: rotate(12deg);
+}
+
+.tooth-45 .root-1 {
+    height: 60px;
+    top: 185px;
+    left: 18px;
+    transform: rotate(6deg);
+}
+
+.tooth-44 .root-1 {
+    height: 61px;
+    top: 188px;
+    left: 21px;
+    transform: rotate(2deg);
+}
+
+.tooth-43 .root-1 {
+	height: 61px;
+    top: 210px;
+    left: 23px;
+    transform: rotate(8deg);
+}
+
+.tooth-42 .root-1 {
+    height: 61px;
+    top: 193px;
+    left: 15px;
+    transform: rotate(8deg);
+}
+
+.tooth-41 .root-1 {
+    height: 54px;
+    top: 190px;
+    left: 20px;
+    transform: rotate(4deg);
+}
+
+.tooth-31 .root-1 {
+    height: 54px;
+    top: 190px;
+    left: 23px;
+    transform: rotate(-4deg);
+}
+
+.tooth-32 .root-1 {
+    height: 61px;
+    top: 193px;
+    left: 26px;
+    transform: rotate(-8deg);
+}
+
+.tooth-33 .root-1 {
+	height: 61px;
+    top: 210px;
+    left: 25px;
+    transform: rotate(-8deg);
+}
+
+.tooth-34 .root-1 {
+    height: 61px;
+    top: 188px;
+    left: 22px;
+    transform: rotate(-2deg);
+}
+
+.tooth-35 .root-1 {
+    height: 60px;
+    top: 185px;
+    left: 22px;
+    transform: rotate(-6deg);
+}
+
+.tooth-36 .root-1 {
+    height: 54px;
+    top: 177px;
+    left: 29px;
+    transform: rotate(-12deg);
+}
+
+.tooth-36 .root-2 {
+    height: 60px;
+    top: 171px;
+    left: 55px;
+    transform: rotate(-12deg);
+}
+
+.tooth-37 .root-1 {
+    height: 54px;
+	top: 171px;
+    left: 27px;
+    transform: rotate(-12deg);
+}
+
+.tooth-37 .root-2 {
+    height: 60px;
+    top: 171px;
+    left: 53px;
+    transform: rotate(-12deg);
+}
+
+.tooth-buttons a img {
+	width: 16px;
+}
+
+.tooth-buttons a {
+	float: left;
+	display: block;
+	margin-left: 5px;
+	cursor: pointer;
+}
+
+.tooth-buttons {
+	margin: 0 auto; 
+	z-index: 99999 !important;
+}
+
+.tooth-buttons a.button-add {
+	display: none;
+}
+
+.brojevi {
+	position: relative;
+	z-index: 9999999;
+}
+
+.edit-zub-btn {
+	float: left;
+	margin-left: 120px;
+	width: 32px;
+}
+
+.edit-zub-preview {
+	width: 32px;
+}

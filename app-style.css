@@ -1,0 +1,81 @@
+.orthopan-holder {
+    height: 650px;
+    height: 625px;
+    overflow-y: auto;
+    padding-right: 20px;
+}
+
+.orthopan-holder .card {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.orthopan-holder .fdropzone {
+    width: 100%;
+    height: 100px;
+    border: 2px dashed #e4e6e8;
+    position: relative;
+}
+
+.orthopan-holder .dz-message:before {
+    top: 40px;
+}
+
+.orthopan-holder .dz-message {
+    margin: 10px !important;
+    font-size: 14px !important;
+    height: 100%;
+}
+
+.orthopan-holder .card .card-text {
+    font-size: 12px;
+}
+
+.orthopan-overlay {
+    text-shadow: 0px 0px 2px black;
+}
+
+.teeth-holder {
+    width: 980px !important; 
+    transform: scale(0.8);
+    /* transform: scale(1.06); */
+    transform-origin: 0 0;
+}
+
+.layout-navbar-fixed .layout-wrapper:not(.layout-horizontal) .layout-page:before {
+    display: none !important;
+}
+
+.tabela-dole-scrollable {
+    height: 200px;
+    overflow-y: scroll;
+}
+
+.ortopan-viewer {
+    width: 720px; 
+    height: 640px; 
+    padding: 0.5em; 
+    position: fixed; 
+    z-index: 999999; 
+    cursor: drag;
+}
+
+.ortopan-viewer img {
+    width: 100%;
+}
+
+.close-dugme {
+    padding: 2px;
+    background-color: white;
+    border: solid 1px black;
+    border-radius: 3px;
+    color: red;
+    font-size: 22px;
+    width: 24px;
+    height: 24px;
+    line-height: 17px;
+    padding-left: 5px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
